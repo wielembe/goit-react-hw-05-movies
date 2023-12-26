@@ -1,0 +1,11 @@
+.movieContainer {
+  display: flex;
+  padding: 8px 0 10px 20px;
+  margin-bottom: 16px;
+  border-bottom: 1px solid black;
+  box-shadow: 0 6px 10px -5px rgba(0, 0, 0, 0.3);
+}
+.moviePoster {
+  width: 200px;
+  margin-right: 20px;
+}

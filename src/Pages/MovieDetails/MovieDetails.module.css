@@ -1,0 +1,7 @@
+.backLink {
+  padding-left: 20px;
+  color: #4b4bff;
+}
+.backLink:active {
+  color: #ff6347;
+}

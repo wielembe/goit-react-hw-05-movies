@@ -1,0 +1,9 @@
+.container {
+  padding-left: 20px;
+}
+.movieLink {
+  color: #4b4bff;
+}
+.movieLink:active {
+  color: #ff6347;
+}
