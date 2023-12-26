@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/344.43395aa7.chunk.css","mappings":"AAAA,uBACE,iBACF,CACA,uBACE,aAAc,CACd,cACF,CACA,8BACE,YACF","sources":["Pages/Home/Home.module.css"],"sourcesContent":[".container {\n  padding-left: 25px;\n}\n.movieLink {\n  color: #4b4bff;\n  font-size: 20px;\n}\n.movieLink:active {\n  color: #ff6347;\n}\n"],"names":[],"sourceRoot":""}

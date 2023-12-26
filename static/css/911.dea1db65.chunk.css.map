@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/911.dea1db65.chunk.css","mappings":"AAAA,yBACE,iBACF,CACA,yBACE,aACF,CACA,gCACE,YACF","sources":["Pages/Movies/Movies.module.css"],"sourcesContent":[".container {\n  padding-left: 20px;\n}\n.movieLink {\n  color: #4b4bff;\n}\n.movieLink:active {\n  color: #ff6347;\n}\n"],"names":[],"sourceRoot":""}
